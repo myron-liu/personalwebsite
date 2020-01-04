@@ -87,7 +87,7 @@
 	.mobile-title {
 		font-size: 4.50vw;
 		padding-bottom: 1%;
-		padding-top: 6%;
+		padding-top: 10%;
 	}
 	.mobile-card-body{
 		line-height: 3.3vw;
@@ -128,6 +128,7 @@
 	}
 	.mobile-title {
 	padding-bottom: 2%;
+	margin-top: 4%;
 	padding-top: 8%;
 	font-size: 5.4vw;
 	}
