@@ -30,9 +30,17 @@ button:hover {
 .project {
 	display: flex; 
 	text-align: left; 
-	color: #FFFFFF';
+	color: #FFFFFF;
 }
 
 .project-image {
 	width: 33.3%;
+}
+
+.clickable-text {
+	text-decoration: none;
+}
+
+.clickable:hover {
+	opacity: 0.5;
 }
