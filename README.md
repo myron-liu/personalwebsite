@@ -5,6 +5,8 @@ It is a simple Node.js server written with Express and a SQL backend for keeping
 
 Heroku link: https://evening-gorge-08461.herokuapp.com/index.html
 
+Static IP Addresses: 54.173.229.200, 54.175.230.252
+
 //TODO:
 - Links and deeper description of projects
 - Add more projects
