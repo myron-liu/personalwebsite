@@ -54,9 +54,11 @@
 
 .contact-input {
 	color: #0F0F0F;
+	font-size: 1.8vw !important;
 }
 .contact-form {
-	padding-top: 3%;
+	font-size: 1.8vw !important;
+	height: 400px;
 }
 
 .contact-button-container {
@@ -65,8 +67,10 @@
 	left: 35vw; 
 	right: 34vw; 
 	width: 30vw; 
-	padding-bottom: 0'
+	font-size: 1.2vw;
+	padding-bottom: 0
 }
+
  
 @media all and (max-width: 1000px) {
 
@@ -91,7 +95,7 @@
 	}
 	.mobile-card-body{
 		line-height: 4.5vw;
-		font-size: 3.5vw;
+		font-size: 3.7vw;
 	}
 	.mobile-deck-stack {
 		display: inline-block;
@@ -107,18 +111,26 @@
 		font-size: 4.5vw;
 	}
 	.mobile-card-date {
-		font-size: 2.2vw;
+		font-size: 3.3vw;
 	}
 	.contact-form-body {
-		font-size: 3.3vw;
+		font-size: 3.4vw;
 		line-height: 4.2vw;
 	}
 	.contact-input {
-		font-size: 2.4vw;
+		color: #0F0F0F;
+		font-size: 3.4vw !important;
+	}
+	.contact-form {
+		font-size: 3.4vw !important;
+		height: 300px;
 		color: #0F0F0F;
 	}
+
 	.contact-button-container {
 		padding-top: 4%;
+		font-size: 2.8vw;
+		left: 30vw;
 	}
 }
 
