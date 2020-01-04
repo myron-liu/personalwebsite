@@ -47,6 +47,10 @@
 	font-size: 1.2vw;
 }
 
+.contact-message {
+	padding-top: 2%;
+}
+
 .contact-form-body {
 	font-size: 2.2vw;
 	line-height: 1vw;
@@ -125,6 +129,10 @@
 		font-size: 3.4vw !important;
 		height: 300px;
 		color: #0F0F0F;
+	}
+
+	.contact-message {
+		padding-top: 4%;
 	}
 
 	.contact-button-container {
