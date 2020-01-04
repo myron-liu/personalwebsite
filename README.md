@@ -3,7 +3,8 @@ Repository for my personal website. My name is Myron Liu and my website can be f
 
 It is a simple Node.js server written with Express and a SQL backend for keeping website logging metrics. It is hosted on heroku free tier. Let me know if you find any typos or any ways I could improve my website.
 
-Heroku link: https://evening-gorge-08461.herokuapp.com/index.html
+Heroku link: https://myronliu.herokuapp.com/
+Website links: https://myronliu.me https://www.myronliu.me
 
 Static IP Addresses: 54.173.229.200, 54.175.230.252
 
